@@ -1,2 +1,0 @@
-# Travellogo
-A Travel Website 
